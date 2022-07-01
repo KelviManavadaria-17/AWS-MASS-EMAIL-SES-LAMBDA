@@ -1,0 +1,1 @@
+In these project we are trying to send mass email using lambda function when any changes in s3 bucket is made . Here we had simply used lamdba function , IAM roles, boto3 python library , aws documentation , s3 bucket and cloud watch to monitor logs of the function. I am attaching architecture of these project
